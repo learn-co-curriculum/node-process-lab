@@ -1,1 +1,3 @@
-console.log(process.platform)
+module.exports = function(){
+  return process.platform
+}

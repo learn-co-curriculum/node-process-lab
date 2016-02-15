@@ -1,1 +1,3 @@
-console.log(process.env.NODE_ENV)
+module.exports = function(){
+  return process.env.NODE_ENV
+}

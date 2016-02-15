@@ -1,1 +1,3 @@
-console.log(process.version)
+module.exports = function(){
+  return process.version
+}
