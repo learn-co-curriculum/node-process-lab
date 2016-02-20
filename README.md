@@ -10,7 +10,9 @@ In this lab, you'll need to demonstrate how to access `global` and `process` var
 
 ## Introduction
 
-`global` have other global objects like `process`, while `global.process` or just `process` have system information. 
+You are a DevOps engineer and you're tasked with deploying a Node.js API server. Developers worked months on this app and now team needs your expertise to push the app to production.
+
+The server needs to be "smart" enough to get secret values from whatever OS or environment it on. In other words, this lab will test you how good you know and utilize process information. For example, `global` have other global objects like `process`, while `global.process` or just `process` have system information. 
 
 ## Instructions
 
